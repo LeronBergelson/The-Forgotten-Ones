@@ -6,4 +6,5 @@
 https://www.youtube.com/watch?v=zGEanTics-M
 
 ## Download
-https://www.mediafire.com/file/u2qh3r6a1cwquzu/The_Forgotten_Ones_setup.exe/file
+https://www.mediafire.com/file/1897v7vba8ypyop/The_Forgotten_Ones_setup.exe/file
+
