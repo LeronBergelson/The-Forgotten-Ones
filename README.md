@@ -5,4 +5,5 @@
 ## Trailer
 https://www.youtube.com/watch?v=zGEanTics-M
 
-## COMING SOON
+## Download
+https://www.mediafire.com/file/u2qh3r6a1cwquzu/The_Forgotten_Ones_setup.exe/file
