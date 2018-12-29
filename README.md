@@ -5,6 +5,9 @@
 ## Trailer
 https://www.youtube.com/watch?v=zGEanTics-M
 
+## Gameplay
+https://www.youtube.com/watch?v=p_n6qXLh_oI
+
 ## Download
 https://www.mediafire.com/file/1897v7vba8ypyop/The_Forgotten_Ones_setup.exe/file
 
