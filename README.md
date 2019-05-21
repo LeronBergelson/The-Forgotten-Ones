@@ -7,10 +7,10 @@ The year is 1993, 7 years after the Chernobyl disaster. After surviving an autom
 As the player your objectives are to find various objects scattered around the map in order to ensure survival when trying to escape the hospital/factory. In order to win the game you need to collect all three items listed in-game and escape without being caught. There are various mutants roaming around and as the player you need to avoid being seen or noticed or else you will be chased. Mutants can detect you by either spotting visible light emitted from the flashlight or hearing the player's footsteps within a certain range. You need to avoid being caught by keeping silent, which can be achieved by remaining still and/or hidden by turning off the flashlight and avoiding direct contact - whenever encountering a mutant.
 
 ## Trailer
-https://www.youtube.com/watch?v=zGEanTics-M
+https://www.youtube.com/watch?v=FAO4AygUw6o
 
 ## Gameplay
-https://www.youtube.com/watch?v=p_n6qXLh_oI
+https://www.youtube.com/watch?v=Az3Rzu9jeXo
 
 ## Download
 https://leron-b.itch.io/the-forgotten-ones
